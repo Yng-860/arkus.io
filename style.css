@@ -1,0 +1,42 @@
+html{
+    color: blueviolet;
+    background-color: mistyrose;
+}
+
+
+
+
+
+
+#sec{
+    background-color: rgb(87, 114, 100);
+    width: 200px;
+    height: 250px;
+    margin: 1%;margin: 1%;
+}
+
+#sec2{
+    margin: 1%;
+    background-color: rgb(243, 243, 38);
+    width: 200px;
+    height: 250px;
+}
+
+#sec3{
+    background-color: rgb(153, 153, 92);
+    width: 200px;
+    height: 250px;
+    margin: 1%;
+}
+
+
+
+
+
+#sek{
+    padding-top: 2%;
+    background-color: beige;
+    width: 400px;
+    height: 450px;
+    margin: 1%;margin: 1%;
+}
